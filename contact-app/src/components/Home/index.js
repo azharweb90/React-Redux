@@ -7,9 +7,7 @@ export default function Home(){
         <>
           <h1>
             Welcome 
-          <Link to="/add">
-            <Button variant="contained"> Add Contact </Button>
-          </Link>
+
           </h1>
         </>
        
